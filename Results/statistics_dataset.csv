@@ -1,0 +1,146 @@
+,DRUMMER 1 ,# onsets,audio length (seconds),average bpm,average bpm librosa,# beats,onsets/second,event density,onset/beat,,,,DRUMMER 2 ,#onsets,# beats,audio length,average_bpm,onsets/beat,beat_density,onset/second,onset/beat,,DRUMMER 3 ,# onsets,# beats,audio length,average bpm,average bpm librosa,onsets/beat,beat_density,onset/second
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DISCO,036_phrase_disco_simple_slow_sticks,66,15.68,172.266,[ 172.265625],44,4.21,20.519,1.5,,,,drummer2.038_phrase_disco_simple_slow_sticks.csv,62,36,13.88,165.22,1.722,108.431,4.467,1.722,,drummer3.055_phrase_disco_simple_slow_sticks.csv,58,20,11.04,110.598,[ 112.34714674],2.9,177.663,5.254
+,037_phrase_disco_simple_medium_sticks,69,11.36,105.258,[ 135.99917763],19,6.07,65.881,3.632,,,,drummer2.039_phrase_disco_simple_medium_sticks.csv,61,18,11.68,96.288,3.389,214.642,5.223,3.389,,drummer3.056_phrase_disco_simple_medium_sticks.csv,57,19,9.28,128.815,[ 129.19921875],3,178.326,6.142
+,038_phrase_disco_simple_fast_sticks,69,11,123.856,[ 123.046875],21,6.27,145.994,3.286,,,,drummer2.040_phrase_disco_simple_fast_sticks.csv,58,20,10.44,117.818,2.9,221.77,5.556,2.9,,drummer3.057_phrase_disco_simple_fast_sticks.csv,69,25,11.44,136.862,[ 143.5546875],2.76,172.556,6.031
+,039_phrase_disco_complex_slow_sticks,79,14.16,92.499,[ 184.5703125],21,5.58,289.685,3.762,,,,drummer2.041_phrase_disco_complex_slow_sticks.csv,90,45,16.8,164.779,2,110.816,5.357,2,,drummer3.058_phrase_disco_complex_slow_sticks.csv,149,39,22.88,104.074,[ 103.359375],3.82,229.489,6.512
+,040_phrase_disco_complex_medium_sticks,81,14.4,111.004,[ 112.34714674],26,5.63,277.883,3.115,,,,drummer2.042_phrase_disco_complex_medium_sticks.csv,61,18,12.04,94.281,3.389,235.236,5.066,3.389,,drummer3.059_phrase_disco_complex_medium_sticks.csv,159,43,21.64,125.343,[ 123.046875],3.7,206.546,7.348
+,041_phrase_disco_complex_fast_sticks,93,11.72,126.908,[ 129.19921875],24,7.94,892.654,3.875,,,,drummer2.043_phrase_disco_complex_fast_sticks.csv,95,36,18.2,120.641,5.278,188.389,5.22,2.639,,drummer3.060_phrase_disco_complex_fast_sticks.csv,200,55,23.44,143.256,[ 143.5546875],3.64,210.599,8.532
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+ROCK,042_phrase_rock_simple_slow_rods,49,20.32,135.343,[ 67.99958882],44,1.11,409.683,1.114,,,,drummer2.044_phrase_rock_simple_slow_sticks.csv,81,26,19.08,86.02,3.115,201.919,4.245,3.115,,drummer3.061_phrase_rock_simple_slow_sticks.csv,82,29,18.76,95.726,[ 95.703125],2.828,178.964,4.371
+,043_phrase_rock_simple_medium_rods,52,15.8,164.972,[ 86.1328125],43,1.21,396.352,1.209,,,,drummer2.045_phrase_rock_simple_medium_sticks.csv,55,18,11.52,96.962,3.056,192.349,4.774,3.056,,drummer3.062_phrase_rock_simple_medium_sticks.csv,86,30,15.2,120.413,[ 123.046875],2.867,157.87,5.658
+,044_phrase_rock_simple_fast_rods,55,13.4,104.309,[ 103.359375],22,2.5,985.06,2.5,,,,drummer2.046_phrase_rock_simple_fast_sticks.csv,77,29,12.24,143.244,2.655,173.541,6.291,2.655,,drummer3.063_phrase_rock_simple_fast_sticks.csv,74,27,15.72,105.882,[ 103.359375],2.741,225.828,4.707
+,045_phrase_rock_complex_slow_rods,76,17,172.266,[ 172.265625],47,1.62,933.778,1.617,,,,drummer2.047_phrase_rock_complex_slow_sticks.csv,95,26,18.2,86.469,3.654,236.241,5.22,3.654,,drummer3.064_phrase_rock_complex_slow_sticks.csv,166,39,23.84,98.365,[ 95.703125],4.256,257.03,6.963
+,drummer1.046_phrase_rock_complex_medium_rods.csv,78,14.2,108.716,[ 107.66601562],25,3.12,1720.356,3.12,,,,drummer2.048_phrase_rock_complex_medium_sticks.csv,55,19,10,118.729,2.895,181.146,5.5,2.895,,drummer3.065_phrase_rock_complex_medium_sticks.csv,156,46,22.92,124.432,[ 123.046875],3.391,162.201,6.806
+,047_phrase_rock_complex_fast_rods,72,9.32,84.248,[ 129.19921875],12,6,2720.076,6,,,,drummer2.049_phrase_rock_complex_fast_sticks.csv,102,37,15.52,144.878,2.757,199.011,6.572,2.757,,drummer3.066_phrase_rock_complex_fast_sticks.csv,226,49,26.36,112.252,[ 112.34714674],4.612,311.314,8.574
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+AFRO,048_phrase_afro_simple_slow_mallets,15,9.76,135.716,[ 135.99917763],21,1.54,4.486,0.71,"0.71,",,,drummer2.050_phrase_afro_simple_slow_sticks.csv,177,35,22.16,97.539,5.057,659.838,7.987,5.057,,drummer3.067_phrase_afro_simple_slow_sticks.csv,100,45,17.76,155.646,[ 161.49902344],2.222,89.205,5.631
+,049_phrase_afro_simple_medium_mallets,25,10.88,111.744,[ 172.265625],19,2.3,27.037,1.32,"1.32,",,,drummer2.051_phrase_afro_simple_medium_sticks.csv,106,22,12.44,107.344,4.818,590.143,8.521,4.818,,drummer3.068_phrase_afro_simple_medium_sticks.csv,115,20,13.56,94.706,[ 129.19921875],5.75,153.425,8.481
+,050_phrase_afro_simple_fast_mallets,32,12.88,131.698,[ 95.703125],27,2.48,106.673,1.19,"1.19,",,,drummer2.052_phrase_afro_simple_fast_sticks.csv,139,30,13.2,141.892,4.633,607.627,10.53,4.633,,drummer3.069_phrase_afro_simple_fast_sticks.csv,115,22,12.08,113.595,[ 117.45383523],5.227,132.407,9.52
+,051_phrase_afro_complex_slow_mallets,55,9.48,136.016,[ 135.99917763],20,5.8,85.553,2.75,"2.75,",,,drummer2.053_phrase_afro_complex_slow_sticks.csv,189,38,23.52,101.363,4.974,548.446,8.036,4.974,,drummer3.070_phrase_afro-samba_complex_slow_sticks.csv,233,40,23.4,106.562,[ 143.5546875],5.825,245.299,9.957
+,052_phrase_afro_complex_medium_mallets,119,16.04,120.01,[ 161.49902344],31,7.42,453.536,3.84,"3.84,",,,drummer2.054_phrase_afro_complex_medium_sticks.csv,180,43,20.2,129.556,4.186,518.631,8.911,4.186,,drummer3.071_phrase_afro-samba_complex_medium_sticks.csv,215,42,19.92,129.404,[ 129.19921875],5.119,224.453,10.793
+,053_phrase_afro_complex_fast_mallets,222,20.44,172.266,[ 172.265625],59,10.86,371.747,3.76,"3.76,",,,drummer2.055_phrase_afro_complex_fast_sticks.csv,271,69,30.16,144.545,3.928,420.489,8.985,3.928,,drummer3.072_phrase_afro-samba_complex_fast_sticks.csv,323,61,27.72,140.176,[ 112.34714674],5.295,207.749,11.652
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+SALSA,060_phrase_salsa_simple_slow_sticks,58,20.28,111.232,[ 112.34714674],37,2.86,6.725,1.57,"2.85996055226824,",,,,,,,,,,,,,drummer3.079_phrase_salsa_simple_slow_sticks.csv,130,31,19.92,94.394,[ 184.5703125],4.194,63.065,6.526
+,061_phrase_salsa_simple_medium_sticks,62,12.92,116.41,[ 117.45383523],23,4.8,11.329,2.7,"4.79876160990712,",,,,,,,,,,,,,drummer3.080_phrase_salsa_simple_medium_sticks.csv,155,32,16.44,120.942,[ 123.046875],4.844,98.471,9.428
+,062_phrase_salsa_simple_fast_sticks,64,10.64,163.67,[ 161.49902344],27,6.02,16.728,2.37,"6.01503759398496,",,,,,,,,,,,,,drummer3.081_phrase_salsa_simple_medium_sticks.csv,138,41,19.84,134.612,[ 135.99917763],3.366,140.542,6.956
+,063_phrase_salsa_complex_slow_sticks,88,17.2,129.011,[ 135.99917763],36,5.12,194.147,2.44,"5.11627906976744,",,,,,,,,,,,,,drummer3.082_phrase_salsa_complex_slow_sticks.csv,138,31,19.56,99.953,[ 99.38401442],4.452,89.001,7.055
+,064_phrase_salsa_complex_medium_sticks,103,12.96,93.005,[ 95.703125],19,7.95,224.123,5.42,"7.94753086419753,",,,,,,,,,,,,,drummer3.083_phrase_salsa_complex_medium_sticks.csv,172,35,19.56,118.104,[ 117.45383523],4.914,104.785,8.793
+,065_phrase_salsa_complex_fast_sticks,153,15.52,135.88,[ 135.99917763],34,9.86,382.775,4.5,"9.85824742268041,",,,,,,,,,,,,,drummer3.084_phrase_salsa_complex_fast_sticks.csv,221,45,20.76,135.394,[ 135.99917763],4.911,148.582,10.645
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+SHUFFLE BLUES,066_phrase_shuffle-blues_simple_slow_brushes,58,13.8,83.114,[ 80.74951172],18,4.2,63.677,3.22,"4.20289855072464,",,,drummer2.069_phrase_shuffle-blues_simple_slow_sticks.csv,82,22,20.76,64.346,3.727,268.065,3.95,3.727,,drummer3.085_phrase_shuffle-blues_simple_slow_sticks.csv,97,27,15.92,104.71,[ 103.359375],3.593,92.968,6.093
+,067_phrase_shuffle-blues_simple_medium_brushes,51,11.12,120.801,[ 123.046875],22,4.59,19.817,2.32,"4.5863309352518,",,,drummer2.070_phrase_shuffle-blues_simple_medium_sticks.csv,62,19,14.72,83.575,3.263,244.071,4.212,3.263,,drummer3.086_phrase_shuffle-blues_simple_medium_sticks.csv,137,36,17.48,126.084,[ 123.046875],3.806,109.59,7.838
+,068_phrase_shuffle-blues_simple_fast_brushes,50,10.96,155.188,[ 151.99908088],26,4.56,7.174,1.92,"4.56204379562044,",,,drummer2.071_phrase_shuffle-blues_simple_fast_sticks.csv,103,26,11.96,136.386,3.962,181.071,8.612,3.962,,drummer3.087_phrase_shuffle-blues_simple_fast_sticks.csv,268,42,24.16,103.231,[ 103.359375],6.381,201.221,11.093
+,069_phrase_shuffle-blues_complex_slow_brushes,111,19.08,100.143,[ 99.38401442],32,5.82,43.283,3.47,"5.81761006289308,",,,drummer2.072_phrase_shuffle-blues_complex_slow_sticks.csv,124,31,22.36,83.419,4,362.3,5.546,4,,drummer3.088_phrase_shuffle-blues_complex_slow_sticks.csv,132,35,17.68,124.905,[ 123.046875],3.771,175.322,7.466
+,070_phrase_shuffle-blues_complex_medium_brushes,144,15.04,151.297,[ 151.99908088],37,9.57,43.32,3.89,"9.57446808510638,",,,drummer2.073_phrase_shuffle-blues_complex_medium_sticks.csv,153,40,21.64,117.276,3.825,281.992,7.07,3.825,,drummer3.089_phrase_shuffle-blues_complex_medium_sticks.csv,213,49,20.08,148.67,[ 143.5546875],4.347,184.042,10.608
+,071_phrase_shuffle-blues_complex_fast_brushes,150,12.72,84.133,[ 86.1328125],17,11.79,150.204,8.82,"11.7924528301887,",,,drummer2.074_phrase_shuffle-blues_complex_fast_sticks.csv,257,74,28.68,162.639,3.473,227.992,8.961,3.473,,drummer3.090_phrase_shuffle-blues_complex_fast_sticks.csv,202,33,18.72,108.913,[ 107.66601562],6.121,226.962,10.791
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+HARD ROCK,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.075_phrase_hard-rock_simple_slow_sticks.csv,52,37,15.36,151.577,1.405,101.601,3.385,1.405,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.076_phrase_hard-rock_simple_medium_sticks.csv,52,21,13.32,95.845,2.476,161.441,3.904,2.476,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.077_phrase_hard-rock_simple_fast_sticks.csv,126,29,19.76,92.964,4.345,393.179,6.377,4.345,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.078_phrase_hard-rock_complex_slow_sticks.csv,134,72,27.48,162.078,1.861,173.81,4.876,1.861,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.079_phrase_hard-rock_complex_medium_sticks.csv,113,38,21.48,107.382,2.974,291.228,5.261,2.974,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.080_phrase_hard-rock_complex_fast_sticks.csv,154,55,23.04,147.498,2.8,201.713,6.684,2.8,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+REGGAE,078_phrase_reggae_simple_slow_sticks,41,12.56,114.749,[ 123.046875],23,3.26,328.013,1.78,"3.26433121019108,",,,,,,,,,,,,,drummer3.091_phrase_reggae_simple_slow_sticks.csv,101,38,19.68,122.698,[ 123.046875],2.658,46.835,5.132
+,079_phrase_reggae_simple_medium_sticks,85,13.48,82.438,[ 83.35433468],17,6.31,256.712,5,"6.30563798219585,",,,,,,,,,,,,,drummer3.092_phrase_reggae_simple_medium_sticks.csv,115,41,18.4,138.746,[ 135.99917763],2.805,70.893,6.25
+,080_phrase_reggae_simple_fast_sticks,111,14.12,184.57,[ 92.28515625],41,7.86,72.204,2.71,"7.86118980169972,",,,,,,,,,,,,,drummer3.093_phrase_reggae_simple_fast_sticks.csv,144,56,22.2,153.587,[ 151.99908088],2.571,50.572,6.486
+,081_phrase_reggae_complex_slow_sticks,73,17.96,128.684,[ 129.19921875],38,4.06,828.072,1.92,"4.06458797327394,",,,,,,,,,,,,,drummer3.094_phrase_reggae_complex_slow_sticks.csv,120,35,17.72,122.676,[ 123.046875],3.429,157.183,6.772
+,082_phrase_reggae_complex_medium_sticks,88,14.48,172.266,[ 172.265625],40,6.08,90.467,2.2,"6.07734806629834,",,,,,,,,,,,,,drummer3.095_phrase_reggae_complex_medium_sticks.csv,143,40,17.92,143.049,[ 143.5546875],3.575,149.251,7.98
+,083_phrase_reggae-ska_complex_fast_sticks,118,13,178.206,[ 89.10290948],38,9.08,249.688,3.11,"9.07692307692308,",,,,,,,,,,,,,drummer3.096_phrase_reggae_complex_fast_sticks.csv,206,41,25.56,99.915,[ 99.38401442],5.024,205.178,8.059
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.093_phrase_funk_simple_slow_sticks.csv,47,26,10.92,148.259,1.808,66.849,4.304,1.808,,,,,,,,,,#DIV/0!
+FUNK,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.094_phrase_funk_simple_medium_sticks.csv,55,14,9.32,95.721,3.929,198.939,5.901,3.929,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.095_phrase_funk_simple_fast_sticks.csv,99,26,14.04,117.205,3.808,204.464,7.051,3.808,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.096_phrase_funk_complex_slow_sticks.csv,121,52,18.88,172.266,2.327,130.481,6.409,2.327,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.097_phrase_funk_complex_medium_sticks.csv,183,39,23.28,103.938,4.692,264.192,7.861,4.692,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.098_phrase_funk_complex_fast_sticks.csv,239,57,27,133.328,4.193,197.475,8.852,4.193,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+WALTZ,084_phrase_waltz_simple_slow_brushes,14,8.68,81.177,[ 92.28515625],12,1.61,0.227,1.17,"1.61290322580645,",,,drummer2.087_phrase_waltz_simple_slow_brushes.csv,36,28,18.36,91.275,1.286,11.169,1.961,1.286,,,,,,,,,,#DIV/0!
+,085_phrase_waltz_simple_medium_brushes,33,12.28,143.577,[ 143.5546875],28,2.69,1.095,1.18,"2.68729641693811,",,,drummer2.088_phrase_waltz_simple_medium_brushes.csv,48,27,15.28,109.251,1.778,19.286,3.141,1.778,,,,,,,,,,#DIV/0!
+,086_phrase_waltz_simple_fast_brushes,52,10.28,98.264,[ 99.38401442],16,5.06,4.42,3.25,"5.05836575875486,",,,drummer2.089_phrase_waltz_simple_fast_brushes.csv,105,50,17,184.57,2.1,17.151,6.176,2.1,,,,,,,,,,#DIV/0!
+,087_phrase_waltz_complex_slow_brushes,66,14.8,128.629,[ 129.19921875],31,4.46,33.578,2.13,"4.45945945945946,",,,drummer2.090_phrase_waltz_complex_slow_brushes.csv,113,41,24,105.517,2.756,49.194,4.708,2.756,,,,,,,,,,#DIV/0!
+,088_phrase_waltz_complex_medium_brushes,91,13.04,78.556,[ 161.49902344],16,6.98,35.88,5.69,"6.97852760736196,",,,drummer2.091_phrase_waltz_complex_medium_brushes.csv,192,58,28.44,126.417,3.31,74.126,6.751,3.31,,,,,,,,,,#DIV/0!
+,089_phrase_waltz_complex_fast_brushes,146,21.56,106.719,[ 107.66601562],38,6.77,99.209,3.84,"6.77179962894249,",,,drummer2.092_phrase_waltz_complex_fast_brushes.csv,302,67,30.96,129.605,4.507,84.066,9.755,4.507,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+COUNTRY,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.099_phrase_country_simple_slow_brushes.csv,52,23,13.64,106.31,2.261,,3.812,2.261,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.100_phrase_country_simple_medium_brushes.csv,51,24,10.64,137.429,2.125,65.301,4.793,2.125,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.101_phrase_country_simple_fast_brushes.csv,102,29,12.88,140.521,3.517,76.138,7.919,3.517,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.102_phrase_country_simple_very-fast_brushes.csv,67,20,7.88,162.801,3.35,156.65,8.503,3.35,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.103_phrase_country_complex_slow_brushes.csv,156,29,20.44,86.678,5.379,170.02,7.632,5.379,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.104_phrase_country_complex_medium_brushes.csv,126,23,13.08,111.55,5.478,236.751,9.633,5.478,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.105_phrase_country_complex_fast_brushes.csv,167,29,12.04,147.691,5.759,198.501,13.87,5.759,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,227.721,,,,,,,,,,,,#DIV/0!
+ORIENTAL,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.109_phrase_oriental_simple_slow_sticks.csv,121,35,19.68,109.15,[ 112.34714674],3.457,152.602,6.148
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.110_phrase_oriental_simple_medium_sticks.csv,79,21,11.2,116.972,[ 161.49902344],3.762,207.193,7.054
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.111_phrase_oriental_simple_fast_sticks.csv,68,21,10.28,129.447,[ 129.19921875],3.238,132.308,6.615
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.112_phrase_oriental_complex_slow_sticks.csv,152,38,20.88,112.33,[ 112.34714674],4,163.703,7.28
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.113_phrase_oriental_complex_medium_sticks.csv,164,40,20.44,117.622,[ 161.49902344],4.1,219.502,8.023
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.114_phrase_oriental_complex_fast_sticks.csv,263,78,32.56,140.547,[ 143.5546875],3.372,141.147,8.077
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+CHA-CHA,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.115_phrase_cha-cha_simple_slow_sticks.csv,93,27,14.44,119.554,[ 117.45383523],3.444,123.34,6.44
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,drummer3.116_phrase_cha-cha_complex_slow_sticks.csv,132,48,23.48,124.145,[ 123.046875],2.75,148.612,5.622
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+SOLO,096_solo_latin_hands,179,40.24,107.062,[ 107.66601562],72,4.45,123.033,2.49,"4.44831013916501,",,,drummer2.106_solo_binary_sticks.csv,239,64,28.84,135.933,3.734,208.518,8.287,3.734,,drummer3.117_solo_afro_sticks.csv,262,57,28.52,123.611,[ 123.046875],4.596,157.32,9.187
+,098_solo_afro_mallets,142,35.16,117.569,[ 117.45383523],66,4.04,138.072,2.15,"4.0386803185438,",,,drummer2.108_solo_toms_sticks.csv,368,81,33.92,143.782,4.543,603.547,10.849,4.543,,drummer3.119_solo_toms_mallets.csv,231,84,53.96,99.312,[ 99.38401442],2.75,76.157,4.281
+,100_solo_rock_sticks,248,28.8,136.11,[ 135.99917763],65,8.61,652.889,3.82,"8.61111111111111,",,,drummer2.110_solo_brushes_brushes.csv,373,129,58.16,140.552,2.891,51.463,6.413,2.891,,drummer3.121_solo_jazz-funk_sticks.csv,736,173,83.68,122.569,[ 151.99908088],4.254,189.744,8.795
+,101_solo_jazz-rock_rods,215,27.24,184.57,[ 95.703125],72,7.89,1346.148,2.99,"7.8928046989721,",,,,,,,,,,,,,,,,,,,,,#DIV/0!
+,102_solo_salsa_sticks,262,27.28,128.81,[ 129.19921875],57,9.6,1572.58,4.6,"9.60410557184751,",,,,,,,,,,,,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+MINUS ONE,107_minus-one_salsa_sticks,740,71.96,100.167,[ 99.38401442],119,10.28,147.233,6.22,"10.2834908282379,",,,drummer2.115_minus-one_salsa_sticks.csv,615,120,72.44,100.03,5.125,255.395,8.49,5.125,,drummer3.126_minus-one_salsa_sticks.csv,705,121,73.24,100.097,[ 99.38401442],5.826,198.764,9.626
+,108_minus-one_rock-60s_sticks,697,72.08,129.662,[ 129.19921875],155,9.67,506.382,4.5,"9.66981132075472,",,,drummer2.116_minus-one_rock-60s_sticks.csv,504,163,76.56,129.945,3.092,172.388,6.583,3.092,,drummer3.127_minus-one_rock-60s_sticks.csv,568,155,71.8,129.976,[ 129.19921875],3.665,144.275,7.911
+,109_minus-one_metal_sticks,481,69,89.943,[ 89.10290948],103,6.97,1020.441,4.67,"6.97101449275362,",,,drummer2.117_minus-one_metal_sticks.csv,451,107,73.04,89.815,4.215,299.449,6.175,4.215,,drummer3.128_minus-one_metal_sticks.csv,508,205,72.8,178.206,[ 89.10290948],2.478,125.272,6.978
+,110_minus-one_musette_brushes,416,75.16,139.887,[ 135.99917763],174,5.53,11.51,2.39,"5.53485896753592,",,,drummer2.118_minus-one_musette_brushes.csv,301,173,75.28,140.016,1.74,24.344,3.998,1.74,,drummer3.129_minus-one_musette_sticks.csv,569,179,77.48,139.508,[ 143.5546875],3.179,40.746,7.344
+,111_minus-one_funky_rods,498,67.08,110.024,[ 112.34714674],122,7.42,341.369,4.08,"7.42397137745975,",,,drummer2.119_minus-one_funky_sticks.csv,481,126,69.08,110.352,3.817,158.189,6.963,3.817,,drummer3.130_minus-one_funky_sticks.csv,615,131,71.92,110.589,[ 112.34714674],4.695,169.523,8.551
+,112_minus-one_funk_rods,358,71.92,140.139,[ 135.99917763],166,4.98,225.102,2.16,"4.97775305895439,",,,drummer2.120_minus-one_funk_sticks.csv,462,172,74.48,139.872,2.686,114.97,6.203,2.686,,drummer3.131_minus-one_funk_sticks.csv,442,177,76.68,139.892,[ 143.5546875],2.497,87.596,5.764
+,113_minus-one_charleston_sticks,460,75.4,103.803,[ 103.359375],129,6.1,33.64,3.57,"6.10079575596817,",,,drummer2.121_minus-one_charleston_sticks.csv,953,126,73.32,104.05,7.563,175.615,12.998,7.563,,drummer3.132_minus-one_charleston_sticks.csv,710,129,74.92,104.261,[ 103.359375],5.504,126.818,9.477
+,114_minus-one_celtic-rock_brushes,688,75.72,142.581,[ 143.5546875],176,9.09,57.144,3.91,"9.08610670892763,",,,drummer2.122_minus-one_celtic-rock_sticks.csv,410,136,58.48,139.971,3.015,55.312,7.011,3.015,,drummer3.133_minus-one_celtic-rock_sticks.csv,662,118,76.4,92.796,[ 143.5546875],5.61,131.625,8.665
+,115_minus-one_bossa_brushes,477,70.92,120.05,[ 123.046875],141,6.73,34.119,3.38,"6.7258883248731,",,,drummer2.123_minus-one_celtic-rock-better-take_sticks.csv,737,178,75.6,142.727,4.14,144.735,9.749,4.14,,drummer3.134_minus-one_bossa_sticks.csv,498,151,76.2,120.082,[ 123.046875],3.298,67.763,6.535
+,,,,,,,#DIV/0!,,#DIV/0!,,,,drummer2.124_minus-one_bossa_sticks.csv,467,141,71.28,120.022,3.312,85.512,6.552,3.312,,,,,,,,,,#DIV/0!
+,,,,,,,#DIV/0!,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,#DIV/0!
+MIDI,121_MIDI-minus-one_bigband_brushes,477,71.16,128.23,[ 129.19921875],151,6.7,7.756,3.16,"6.70320404721754,",,,drummer2.130_MIDI-minus-one_bigband_sticks.csv,300,85,40.24,128.146,3.529,100.731,7.455,3.529,,drummer3.140_MIDI-minus-one_bigband_sticks.csv,248,91,43.12,128.15,[ 129.19921875],2.725,32.365,5.751
+,123_MIDI-minus-one_blues-102_sticks,471,70.16,106.134,[ 107.66601562],123,6.71,36.669,3.83,"6.71322690992018,",,,drummer2.132_MIDI-minus-one_blues-102_sticks.csv,267,70,39.8,106.344,3.814,164.005,6.709,3.814,,drummer3.142_MIDI-minus-one_blues-102_sticks.csv,275,61,34.88,105.827,[ 107.66601562],4.508,168.532,7.884
+,125_MIDI-minus-one_country-120_brushes,643,37.2,119.739,[ 117.45383523],73,17.28,14.32,8.81,"17.2849462365591,",,,drummer2.134_MIDI-minus-one_country-120_sticks.csv,211,80,40.2,119.925,2.638,74.28,5.249,2.638,,drummer3.144_MIDI-minus-one_country-120_sticks.csv,227,61,30.92,119.981,[ 117.45383523],3.721,105.514,7.342
+,127_MIDI-minus-one_disco-108_sticks,282,42.6,108.128,[ 107.66601562],76,6.62,89.788,3.71,"6.61971830985916,",,,drummer2.136_MIDI-minus-one_disco-108_sticks.csv,226,66,37.44,108,3.424,182.277,6.036,3.424,,drummer3.146_MIDI-minus-one_disco-108_sticks.csv,313,76,42.6,108.274,[ 107.66601562],4.118,131.571,7.347
+,129_MIDI-minus-one_funk-101_sticks,314,44.68,100.947,[ 103.359375],74,7.03,513.936,4.24,"7.02775290957923,",,,drummer2.138_MIDI-minus-one_funk-101_sticks.csv,273,82,48.84,101.304,3.329,129.808,5.59,3.329,,drummer3.148_MIDI-minus-one_funk-101_sticks.csv,320,65,39.08,101.033,[ 99.38401442],4.923,153.09,8.188
+,131_MIDI-minus-one_grunge_sticks,270,40,119.974,[ 117.45383523],79,6.75,154.013,3.42,"6.75,",,,drummer2.140_MIDI-minus-one_grunge_sticks.csv,250,87,43.76,120.038,2.874,231.756,5.713,2.874,,drummer3.150_MIDI-minus-one_grunge_sticks.csv,272,71,35.72,118.275,[ 117.45383523],3.831,157.243,7.615
+,133_MIDI-minus-one_nu-soul_sticks,305,48.72,104.231,[ 103.359375],82,6.26,231.737,3.72,"6.26026272577997,",,,drummer2.142_MIDI-minus-one_nu-soul_sticks.csv,289,83,48.6,103.955,3.482,157.131,5.947,3.482,,drummer3.152_MIDI-minus-one_nu-soul_sticks.csv,408,87,50.84,104.061,[ 103.359375],4.69,121.457,8.025
+,135_MIDI-minus-one_rock-113_sticks,263,33.72,112.506,[ 112.34714674],63,7.8,87.866,4.17,"7.79952550415184,",,,drummer2.144_MIDI-minus-one_rock-113_sticks.csv,221,85,45.12,112.758,2.6,144.151,4.898,2.6,,drummer3.154_MIDI-minus-one_rock-113_sticks.csv,265,84,44.64,112.809,[ 112.34714674],3.155,133.058,5.936
+,137_MIDI-minus-one_rock'n'roll-188_sticks,172,34.08,93.98,[ 95.703125],53,5.05,152.613,3.25,"5.04694835680751,",,,drummer2.146_MIDI-minus-one_rock'n'roll-188_sticks.csv,267,111,35.76,184.57,2.405,134.193,7.466,2.405,,drummer3.156_MIDI-minus-one_rock'n'roll-188_sticks.csv,391,60,38.84,93.847,[ 95.703125],6.517,157.843,10.067
+,139_MIDI-minus-one_soul-120-marvin-gaye_sticks,469,30.36,120.062,[ 117.45383523],60,15.45,92.177,7.82,"15.4479578392622,",,,drummer2.148_MIDI-minus-one_soul-120-marvin-gaye_sticks.csv,247,94,47.72,119.998,2.628,144.675,5.176,2.628,,drummer3.158_MIDI-minus-one_soul-120-marvin-gaye_sticks.csv,340,88,44.52,119.814,[ 117.45383523],3.864,104.541,7.637
+,141_MIDI-minus-one_soul-98_sticks,192,39.44,98.038,[ 99.38401442],64,4.87,43.688,3,"4.86815415821501,",,,drummer2.150_MIDI-minus-one_soul-98_sticks.csv,246,83,51.6,98.097,2.964,104.123,4.767,2.964,,drummer3.160_MIDI-minus-one_soul-98_sticks.csv,262,66,40.96,98.156,[ 99.38401442],3.97,71.163,6.396
+,143_MIDI-minus-one_fusion-125_sticks,214,58.48,82.134,[ 83.35433468],95,3.66,572.733,2.25,"3.6593707250342,",,,drummer2.152_MIDI-minus-one_fusion-125_sticks.csv,353,159,64.52,162.557,2.22,130.414,5.471,2.22,,drummer3.162_MIDI-minus-one_fusion-125_sticks.csv,494,181,72.4,162.427,[ 161.49902344],2.729,161.924,6.823
+,,,,,,,#DIV/0!,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,drummer1.143_MIDI-minus-one_fusion-125_sticks.csv,378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,onsets_count_drummer1.csv,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,onsets.csv,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,txt2csv.py~,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
